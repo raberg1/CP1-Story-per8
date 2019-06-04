@@ -7,6 +7,7 @@ I went to period 2
 I went to period 3
 I went to period 4
 I went to period 5
+I added numbers in Math
 I went to period 6
 I went to period 7
 I went to period 8
@@ -14,5 +15,4 @@ I sat through some amazing classes
 I came home from school
 I walked Logan again
 I ate dinner
-I watched a movie
 I went to sleep
